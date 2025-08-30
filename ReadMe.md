@@ -1,6 +1,9 @@
 # 💫 About Me:
 Developing advanced local AI chatbots and agents using models like TinyLlama and DeepSeek, building a ChatGPT/DeepSeek-style interface, and exploring cybersecurity projects including penetration testing setups and bug hunting automation<br>AI research, full-stack projects (Python, Java, React), cybersecurity tools, and creating legendary UIs/UX for applications and websites.<br>Optimizing AI performance on low-spec hardware, scaling AI + cybersecurity integration, running Windows apps seamlessly on Linux, and exploring cutting-edge AI model deployment without relying on paid APIs.<br>Linux, AI chatbots, debloating Windows, programming, UI/UX, and cool tech setups.<br>I dual-boot multiple OSes, love experimenting with software way beyond normal use, and I’m only 15 but already building AI tools like a pro.
 
+Web development powered by precision, performance, and a passion for cybersecurity.
+[https://nazifkeyan.vercel.app/]
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_notkeyanatall_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nazif.keyan@gmail.com) 
